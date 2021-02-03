@@ -1,7 +1,7 @@
 # Inmuebles en Venta
 
 <p align="center">
-  <img src="https://datamarket.es/media/images/pisos-en-venta-image.png">
+  <img width=100 src="https://datamarket.es/media/images/pisos-en-venta-image.png">
 </p>
 
 Anuncios de venta de inmuebles en las principales plataformas. Este dataset se puede adquirir en [Data Market](https://datamarket.es/#inmuebles-en-venta-dataset), plataforma de referencia de datos externos en España. Puede consultar nuestro catálogo de datos en la siguiente url: [datamarket.es](https://datamarket.es/)
