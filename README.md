@@ -1,6 +1,31 @@
-# Inmuebles en Venta
+# Datasets de Inmuebles en Venta
 
-Anuncios de venta de inmuebles en las principales plataformas. Este dataset se puede adquirir en [Data Market](https://datamarket.es/#inmuebles-en-venta-dataset), plataforma de referencia de datos externos en España. Puede consultar nuestro catálogo de datos en la siguiente url: [datamarket.es](https://datamarket.es/)
+<a href="https://datamarket.es">
+  <img src="https://datamarket.es/static/core/img/banners/noticias-economicas-banner.png">
+</a>
+
+## Descripción
+
+Anuncios de __venta de inmuebles en las principales plataformas__. 
+
+Las características de este dataset son las siguientes:
+
+* __Frecuencia de actualización__: actualizado cada 7 días
+* __Volumen estimado__: 
+* __Histórico__: 
+
+El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#inmuebles-en-venta-dataset), plataforma de referencia de datos externos en España. 
+
+Este repositorio contiene los siguientes recursos:
+
+* La documentación completa del dataset.
+* Una muestra representativa del mismo disponible para su evaluación y uso gratuito.
+
+## Muestra
+
+La muestra se encuentra disponible para descarga en el siguiente [link](https://github.com/Data-Market/inmuebles-en-venta/blob/main/inmuebles-en-venta-sample.csv).
+
+## Documentación
 
 A continuación se muestran las columnas de las que consta el dataset en el formato __nombre_columna__: __ejemplo_columna__, donde ejemplo_columna representa posibles valores que se pueden encontrar en dicha columna.
 
